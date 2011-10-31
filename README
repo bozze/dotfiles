@@ -1,0 +1,3 @@
+Various config files here.
+
+tmux.conf : config file for Term multiplexer "TMUX" (screen replacement), for 256colors term
